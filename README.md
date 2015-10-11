@@ -1,6 +1,7 @@
 ### Nominandi
 
 A node.js name generator for **1010892** unique names
+
 [![NPM version](https://img.shields.io/npm/v/nominandi.svg?style=flat-square)](https://www.npmjs.org/package/nominandi) [![Downloads](https://img.shields.io/npm/dt/nominandi.svg?style=flat-square)](https://www.npmjs.org/package/nominandi)
 
 ## Installation
