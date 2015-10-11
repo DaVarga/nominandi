@@ -1,6 +1,6 @@
 {
   "name": "nominandi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A name generator for unique names",
   "engines": {
     "node": ">=4.1.0"
