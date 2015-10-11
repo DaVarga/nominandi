@@ -13,7 +13,7 @@ $ npm install --save nominandi
 ## Usage
 Create object:
 ```javascript
-var Nominandi = require('Nominandi');
+var Nominandi = require('nominandi');
 var nomi = new Nominandi();
 ```
 generate name:
