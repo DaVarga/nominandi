@@ -1,0 +1,27 @@
+{
+  "name": "nominandi",
+  "version": "1.0.0",
+  "description": "A name generator for unique names",
+  "engines": {
+    "node": ">=4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaVarga/nominandi"
+  },
+  "bugs": {
+    "url": "https://github.com/DaVarga/nominandi/issues"
+  },
+  "keywords": [
+    "name",
+    "naming",
+    "generator"
+  ],
+  "readmeFilename": "README.md",
+  "author": "Daniel Varga",
+  "license": "MIT",
+  "contributors": [{
+    "name": "Daniel Varga",
+    "email": "varga.daniel@gmx.de"
+  }]
+}
